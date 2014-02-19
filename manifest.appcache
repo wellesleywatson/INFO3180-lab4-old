@@ -1,0 +1,26 @@
+CACHE MANIFEST
+
+# version 2011-07-012 06:06:44 v1
+
+CACHE:
+
+# html files
+#calc.html
+
+
+# css files
+static/calc.css
+
+# images
+static/calc.png
+
+# https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png
+
+# misc
+#humans.txt
+
+FALLBACK:
+#/ /demo/fallback.html
+
+NETWORK:
+*
